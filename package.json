@@ -1,5 +1,5 @@
 {
-  "name": "fp_arch",
+  "name": "betting-dapp",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,9 @@
   "dependencies": {
     "immutable": "^4.0.0-rc.12",
     "immutable-ext": "^1.1.5",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "date-fns": "^2.16.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "ramda": "^0.26.1"
   }
 }
